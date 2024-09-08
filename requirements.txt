@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+db-sqlite3
+seaborn
